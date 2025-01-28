@@ -12,3 +12,4 @@ def ordenacion_burbuja(calificaciones):
 calificaciones = [85, 78, 92, 68, 88]
 calificaciones_ordenadas = ordenacion_burbuja(calificaciones)
 print("calificaciones ordenadas de menor a mayor ")
+
